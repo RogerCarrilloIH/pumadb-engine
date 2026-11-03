@@ -1,0 +1,13 @@
+Id,Nombre,Apellido,Semestre,Carrera
+1,Juan,Perez,5,Computacion
+2,Anita,Lopez,8,Electronica
+3,Miguel,Gutierrez,7,Computacion
+4,Sofia,Hernandez,6,Telecom
+5,Carlos,Ramirez,4,Mecatronica
+6,Valeria,Torres,9,Computacion
+7,Luis,Morales,3,Electronica
+8,Elena,Castro,5,Telecom
+9,Diego,Vargas,8,Computacion
+10,Mariana,Rios,7,Mecatronica
+11,Jose,Sanchez,9,Telecom
+12,Jose,Carrillo,7,TI
